@@ -1,13 +1,9 @@
  ## **Achievements**  :triangular_flag_on_post:
  
  
- 
- <p align="center">
-  <img widht ="300" height="300" src="https://user-images.githubusercontent.com/55943851/82728945-52f4c800-9d11-11ea-9f0a-061c2a225a72.png">
-</p>
-  
+
 <p align="center">
-  <a href="https://avatars.githubusercontent.com/u/55943851?s=96&v=4">S h a n m u k</a><br>
+  <a >S h a n m u k</a><br>
   <br>
     <b>Cybersecurity Keen | Android & Game Developer | Artist</b>
   <br><br>
